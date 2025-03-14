@@ -22,17 +22,22 @@
 	</url>
 	
 	<url>
+		<loc>https://example.com/eleventy-base-blog/blog/passwordsharing/</loc>
+		<lastmod>2024-08-12</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://example.com/eleventy-base-blog/blog/</loc>
-		<lastmod>2024-04-05</lastmod>
+		<lastmod>2025-03-14</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/eleventy-base-blog/</loc>
-		<lastmod>2024-04-05</lastmod>
+		<lastmod>2025-03-14</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/eleventy-base-blog/tags/</loc>
-		<lastmod>2024-04-05</lastmod>
+		<lastmod>2025-03-14</lastmod>
 	</url>
 </urlset>

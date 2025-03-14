@@ -4,12 +4,20 @@
 	<subtitle>Graphic design is my passion</subtitle>
 	<link href="https://example.com/eleventy-base-blog/feed/feed.xml" rel="self"/>
 	<link href="https://example.com/eleventy-base-blog/"/>
-	<updated>2023-05-25T00:00:00Z</updated>
+	<updated>2024-08-12T00:00:00Z</updated>
 	<id>https://example.com/</id>
 	<author>
 		<name>Phoebe Moh</name>
 		<email>pmoh@umd.edu</email>
 	</author>
+	
+	<entry>
+		<title>Understanding How People Share Passwords</title>
+		<link href="https://example.com/eleventy-base-blog/blog/passwordsharing/"/>
+		<updated>2024-08-12T00:00:00Z</updated>
+		<id>https://example.com/eleventy-base-blog/blog/passwordsharing/</id>
+		<content type="html"></content>
+	</entry>
 	
 	<entry>
 		<title>Characterizing Everyday Misuse of Smart Home Devices</title>
